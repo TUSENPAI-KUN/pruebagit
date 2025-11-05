@@ -1,0 +1,4 @@
+git branch name
+git checkout //branch//
+git branch -d //branch// (deleted branch)
+git branch -m name newname (name switched branch)
